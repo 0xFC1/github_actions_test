@@ -1,5 +1,6 @@
 import logging
 import os
+from aiogram.types import Message
 
 from aiogram import Bot, Dispatcher, F, types
 
